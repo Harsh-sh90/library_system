@@ -1,0 +1,50 @@
+[
+    {
+        "title": "MY life",
+        "author": "Aman",
+        "isbn": "1233",
+        "available": true
+    },
+    {
+        "title": "Rules",
+        "author": "Ankit",
+        "isbn": "567",
+        "available": true
+    },
+    {
+        "title": "if i die",
+        "author": "harsh ",
+        "isbn": "453",
+        "available": true
+    },
+    {
+        "title": "sidhi bat no bakwas",
+        "author": "prem",
+        "isbn": "009",
+        "available": true
+    },
+    {
+        "title": "/usr/local/bin/python3 /Users/harshsharma/library_system/main.py",
+        "author": "1",
+        "isbn": "768",
+        "available": true
+    },
+    {
+        "title": "politics",
+        "author": "modi ji",
+        "isbn": "8977",
+        "available": true
+    },
+    {
+        "title": "Politics",
+        "author": "modi ji",
+        "isbn": "223",
+        "available": true
+    },
+    {
+        "title": "Nature",
+        "author": "suraj",
+        "isbn": "9088",
+        "available": true
+    }
+]
